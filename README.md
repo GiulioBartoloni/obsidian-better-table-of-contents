@@ -18,7 +18,7 @@ Enable the plugin in the Obsidian settings.
 
 Simply use the "Better Table of Contents" command in your note to append a table of contents in the current file. The current file will be ignored.
 
-#Contribution
+# Contribution
 
 Feel free to contribute to the project by submitting issues, feature requests, or pull requests!
 
