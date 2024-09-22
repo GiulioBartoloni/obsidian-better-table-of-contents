@@ -4,6 +4,6 @@
     "version": "1.0.0",
     "minAppVersion": "0.13.11",
     "description": "Generate a ToC from the current folder.",
-    "author": "Kronicle",
+    "author": "Giulio Bartoloni",
     "main": "main.js"
 }
